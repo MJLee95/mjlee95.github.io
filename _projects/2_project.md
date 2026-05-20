@@ -2,7 +2,7 @@
 layout: page
 title: Demand Forecasting and Capacity Planning under Uncertainty
 description: Monte Carlo-based scenario analysis for pharmaceutical production planning
-img: assets/img/2.jpg
+img: assets/img/pmv-chamara-dMjkQJs58uo-unsplash.jpg
 importance: 2
 category: work
 ---

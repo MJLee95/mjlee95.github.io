@@ -2,7 +2,7 @@
 layout: page
 title: Equipment Investment Planning under Demand Uncertainty
 description: Simulation-based capacity analysis for semiconductor manufacturing at SK Hynix
-img: assets/img/1.jpg
+img: assets/img/jonas-svidras-e28-krnIVmo-unsplash.jpg
 importance: 1
 category: work
 ---

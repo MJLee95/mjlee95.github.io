@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Incoming PhD Student, <a href='https://www.rhsmith.umd.edu/'>Robert H. Smith School of Business, University of Maryland</a>
 

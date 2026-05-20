@@ -8,11 +8,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>mj95lee@umd.edu</p>
     <p style="margin-top: 0.5rem;">
-      <a href="mailto:mj95lee@umd.edu"><i class="fas fa-envelope"></i></a>
-      &nbsp;
-      <a href="https://www.linkedin.com/in/minjae95lee/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+      <a href="mailto:mj95lee@umd.edu"><i class="fas fa-envelope fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/minjae95lee/" target="_blank"><i class="fab fa-linkedin fa-lg"></i></a>
     </p>
 selected_papers: false
 social: false

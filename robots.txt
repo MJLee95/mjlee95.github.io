@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MJLee95.github.io/sitemap.xml
+Sitemap: https://mj95lee.github.io/sitemap.xml

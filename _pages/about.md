@@ -2,33 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Incoming PhD Student, <a href='https://www.rhsmith.umd.edu/'>Robert H. Smith School of Business, University of Maryland</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>mj95lee@umd.edu</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: true
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
+  enabled: false
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an incoming PhD student in Operations Management at the [Robert H. Smith School of Business, University of Maryland](https://www.rhsmith.umd.edu/). Prior to this, I received my M.S. in Operations Strategy and Management Science from [KAIST College of Business](https://business.kaist.ac.kr/), and worked as a sales planning engineer at [SK Hynix](https://www.skhynix.com/), where I managed NAND flash supply for major big tech customers
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests lie in operations management, with a focus on how operational systems perform under uncertainty. I am particularly interested in infrastructure investment in early-stage markets — such as hydrogen refueling and EV charging — where adoption depends on the timing and placement of initial capacity. More broadly, I am interested in how firms make capacity and flexibility decisions under uncertainty, and how those choices shape operational outcomes. My work to date has been primarily empirical, and I aim to deepen my analytical foundations during the PhD to better understand the structural mechanisms behind the patterns I observe in data.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My master's thesis studied how hydrogen refueling station openings affect vehicle adoption across districts in South Korea. Using a staggered difference-in-differences design, I found that the first station has a disproportionately large effect on adoption—especially in non-metro areas—suggesting that early diffusion is driven more by removing zero-coverage gaps than by network densification.
+
+I aspire to conduct research that contributes to something larger than myself.

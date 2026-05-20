@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-more_info: >
+  more_info: >
     <p>mj95lee@umd.edu</p>
     <p style="margin-top: 0.5rem;">
       <a href="mailto:mj95lee@umd.edu"><i class="fas fa-envelope"></i></a>
